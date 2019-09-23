@@ -4,6 +4,7 @@ RUN apt-get update && apt-get install -yqq --no-install-recommends \
       curl \
       gnupg2 \
       dirmngr \
+      git \
       zip \
       unzip
 
